@@ -11,7 +11,7 @@ const Index = () => {
       <Hero />
       <EventsSection />
       <Gallery />
-      <TravelSection venueName={"Radha Palace, Aggarwal Fun City Mall, CBD Ground, near Karkardooma Court, Shahdara, New Delhi, Delhi 110032"} eventVenueName={" Hotel Sunshine Park, D-1, Chander Nagar Opp, Vivek Vihar,Sahibabad- 20101"} />
+      <TravelSection venueName={"Radha Palace, Aggarwal Fun City Mall, CBD Ground, near Karkardooma Court, Shahdara, New Delhi, Delhi 110032"} eventVenueName={" DDA Comunity Center,J6R8+R3P, Ratan Lal Market, Kaseru Walan, Paharganj, New Delhi, Delhi 110055"} />
       <Footer />
     </div>
   );

@@ -6,7 +6,7 @@ import { MapPin, Hotel, Plane } from "lucide-react";
 export interface TravelSectionProps {
   /** Name or address of the venue. Example: "Heritage Gardens, New Delhi" */
   venueName: 'Radha Palace, Aggarwal Fun City Mall, CBD Ground, near Karkardooma Court, Shahdara, New Delhi, Delhi 110032';
-  eventVenueName:" Hotel Sunshine Park, D-1, Chander Nagar Opp, Vivek Vihar,Sahibabad- 20101";
+  eventVenueName:" DDA Comunity Center,J6R8+R3P, Ratan Lal Market, Kaseru Walan, Paharganj, New Delhi, Delhi 110055";
 }
 
 /**
@@ -20,7 +20,7 @@ const TravelSection: React.FC<TravelSectionProps> = ({ venueName, eventVenueName
     || "Radha Palace, Aggarwal Fun City Mall, CBD Ground, near Karkardooma Court, Shahdara, New Delhi, Delhi 110032";
 
   const eventVenue = (eventVenueName || "").trim() 
-    || " Hotel Sunshine Park, D-1, Chander Nagar Opp, Vivek Vihar,Sahibabad- 20101";
+    || " DDA Comunity Center,J6R8+R3P, Ratan Lal Market, Kaseru Walan, Paharganj, New Delhi, Delhi 110055";
 
   const encodedVenue = encodeURIComponent(venue);
   const encodedEventVenue = encodeURIComponent(eventVenue);
@@ -58,7 +58,7 @@ const TravelSection: React.FC<TravelSectionProps> = ({ venueName, eventVenueName
             <CardHeader>
               <div className="flex items-center gap-2">
                 <MapPin className="h-6 w-6 text-primary" />
-                <CardTitle>Enagement & Sangeet </CardTitle>
+                <CardTitle>Mehndi & tel ban, haldat </CardTitle>
               </div>
             </CardHeader>
 

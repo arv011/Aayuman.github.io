@@ -11,26 +11,26 @@ const EventsSection = () => {
       title: "Chaak - Bhaath",
       date: "December 4th, 2025",
       time: "11:00 AM onwards",
-      location: "Hotel Sunshine Park, D-1 Chandar Nagar Opp, vivek vihar, sahibabad-201010"
+      location: "DDA Comunity Center, Ratan Lal Market, Kaseru Walan, Paharganj, New Delhi, Delhi 110055"
     },{
       icon: Music,
       title: "Rajga",
       date: "December 4th, 2025",
       time: "03:00 PM onwards",
-      location: "Hotel Sunshine Park, D-1 Chandar Nagar Opp, vivek vihar, sahibabad-201010"
+      location: "DDA Comunity Center, Ratan Lal Market, Kaseru Walan, Paharganj, New Delhi, Delhi 110055"
     },{
       icon: Heart,
       title: "Mehndi",
       date: "December 4th, 2025",
       time: "05:00 PM onwards",
-      location: "Hotel Sunshine Park, D-1 Chandar Nagar Opp, vivek vihar, sahibabad-201010"
+      location: "DDA Comunity Center, Ratan Lal Market, Kaseru Walan, Paharganj, New Delhi, Delhi 110055"
     },
     {
       icon: Heart,
       title: "tel ban, haldat",
       date: "December 5th, 2025",
       time: "11:00 AM",
-      location: "Hotel Sunshine Park, D-1 Chandar Nagar Opp, vivek vihar, sahibabad-201010"
+      location: "DDA Comunity Center, Ratan Lal Market, Kaseru Walan, Paharganj, New Delhi, Delhi 110055"
     },    {
       icon: Wine,
       title: "Wedding Ceremony",
